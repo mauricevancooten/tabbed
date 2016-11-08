@@ -1,0 +1,27 @@
+{
+  "name": "tabbed",
+  "version": "1.0.0",
+  "description": "Tab content.",
+  "main": "tabbed.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricevancooten/tabbed.git"
+  },
+  "keywords": [
+    "tabs",
+    "tabbed",
+    "javascript"
+  ],
+  "author": "Maurice van Cooten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauricevancooten/tabbed/issues"
+  },
+  "homepage": "https://github.com/mauricevancooten/tabbed#readme"
+}
