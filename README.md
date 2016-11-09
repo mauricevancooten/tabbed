@@ -12,7 +12,7 @@ var tabs = new Tabbed('#tabs')
 ### Browser Usage
 
 1. Link stylesheet
-    ``` js
+    ``` html
     <!-- Put this into the <head> -->
     <link rel="stylesheet" href="tabbed.css">
     ```
